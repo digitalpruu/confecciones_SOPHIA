@@ -21,7 +21,7 @@
     "title": "confecciones",
     "subtitle": "SOPHIA.",
     "description": "",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/1.png",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -37,12 +37,12 @@
       {
         "title": "Productos",
         "description": "Nos dedicamos a la confección de prendas únicas, que combinan tendencias modernas con un enfoque en la comodidad y la durabilidad.",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/2.png"
       },
       {
         "title": "Nos define",
         "description": "Confecciones SOPHIA es sinónimo de estilo y calidad.  Cada pieza es diseñada y elaborada pensando en realzar la belleza y confianza de quienes las usan. Nuestro compromiso es ofrecer moda que se adapte a tu estilo de vida.",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/3.png"
       }
     ]
   },
@@ -53,23 +53,23 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 5462874",
-        "icon": "/assets/images/react.png"
+        "description": "+57 300 123456",
+        "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "panaderíalaesperanza@gmail.com",
-        "icon": "/assets/images/tailwindcss.svg"
+        "description": "minegocio@gmail.com",
+        "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@PanaderiaEsperanza",
-        "icon": "/assets/images/nextjs.svg"
+        "description": "@MiNegocio",
+        "icon": "/assets/images/insta.png"
       },
       {
         "name": "Facebook",
-        "description": "Panadería la Esperanza",
-        "icon": "/assets/images/ts.png"
+        "description": "Mi Negocio",
+        "icon": "/assets/images/facebook.jpg"
       }
     ]
   },
