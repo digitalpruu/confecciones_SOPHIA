@@ -18,7 +18,7 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "confecciones",
+    "title": "Creaciones ",
     "subtitle": "SOPHIA.",
     "description": "",
     "img": "/assets/images/1.png",
@@ -41,7 +41,7 @@
       },
       {
         "title": "Nos define",
-        "description": "Confecciones SOPHIA es sinónimo de estilo y calidad.  Cada pieza es diseñada y elaborada pensando en realzar la belleza y confianza de quienes las usan. Nuestro compromiso es ofrecer moda que se adapte a tu estilo de vida.",
+        "description": "Creaciones SOPHIA es sinónimo de estilo y calidad.  Cada pieza es diseñada y elaborada pensando en realzar la belleza y confianza de quienes las usan. Nuestro compromiso es ofrecer moda que se adapte a tu estilo de vida.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -53,23 +53,19 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 314 3738043",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "FAMILIABOTEROFUENTES@GMAIL.COM",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        
       }
     ]
   },
