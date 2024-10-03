@@ -59,13 +59,8 @@
       {
         "name": "Email",
         "description": "FAMILIABOTEROFUENTES@GMAIL.COM",
-        "icon": "/assets/images/email.png"
-      },
-      {
-        
-      },
-      {
-        
+        "icon": "/assets/images/email.png",
+        "url":""
       }
     ]
   },
